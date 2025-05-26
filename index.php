@@ -1,8 +1,8 @@
 <?php
 // Database connection
 $servername = "sql305.infinityfree.com";
-$username = "if0_39084164"; // Change this to your database username
-$password = "kevinmetal411"; // Change this to your database password
+$username = "if0_39084164"; 
+$password = "kevinmetal411"; 
 $dbname = "if0_39084164_exam"; 
 $conn = new mysqli($servername, $username, $password, $dbname);
 // Check connection
